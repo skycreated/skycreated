@@ -8,9 +8,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=900&height=44&lines=Computer%20Systems%20%26%20Technology%20Student;Technical%20Writing%20%F0%9F%97%8E%20Project%20Management%20%F0%9F%96%84%20Game%20Development%20%26%20Design%20%F0%9F%96%B3" alt="Typing headlines" />
 </p>
 
-### ᰔ ωєℓ¢σмє ᰔ
-### ˙⋆✮ About Me
-· · ─ ·☽𖤓☾· ─ · ·
+### · · ─ ·☽𖤓☾· ─ · ·ωєℓ¢σмє· · ─ ·☽𖤓☾· ─ · ·
+
+### ꧁𓊈𒆜 ABOUT ME 𒆜𓊉꧂
 I am a full time CST student with a focus in Technical Writing, Project Management, and Game Development &amp; Design. I love learning new things, problem solving, and creating fun projects!
 
 ☾𖤓 &nbsp;I'm currently working on **a project where I manage a team to create a bullet-hell style game for my CWEB class!**  
