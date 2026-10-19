@@ -1,10 +1,9 @@
-<span style = "background-color: black">
+
 <p align="center">
   <a href="https://github.com/skycreated">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ec4bc1&fontSize=54&height=90&width=474&text=Hi%20I'm%20Sky%20!" alt="Hi I&#39;m Sky !" />
   </a>
 </p>
-</span>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=900&height=44&lines=Computer%20Systems%20%26%20Technology%20Student;Technical%20Writing%20%F0%9F%97%8E%20Project%20Management%20%F0%9F%96%84%20Game%20Development%20%26%20Design%20%F0%9F%96%B3" alt="Typing headlines" />
