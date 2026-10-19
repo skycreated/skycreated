@@ -1,3 +1,4 @@
+<span style = "background-color: black">
 <p align="center">
   <a href="https://github.com/skycreated">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ec4bc1&fontSize=54&height=90&width=474&text=Hi%20I'm%20Sky%20!" alt="Hi I&#39;m Sky !" />
@@ -67,4 +68,4 @@ I am a full time CST student with a focus in Technical Writing, Project Manageme
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/skycreated">skycreated</a></i></p>
-
+</span>
