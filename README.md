@@ -16,7 +16,7 @@ I am a full time CST student with a focus in Technical Writing, Project Manageme
 
 ☾𖤓 &nbsp;I'm currently working on **a project where I manage a team to create a bullet-hell style game for my CWEB class!**  
 𖤓☽ &nbsp;I'm currently learning **python, SQL, and Node.js**  
-☾𖤓 &nbsp;I'm looking to collaborate on **projects that need documentation, wireframes, or any other written work.**  
+☾𖤓 &nbsp;I'm looking to collaborate on **projects that need documentation, diagrams, or any other written work.**  
 𖤓☽ &nbsp;Fun fact: **I am an extrovert and love working with clients, diverse teams, and other innovative creators!**
 
 ### ˙⋆✮ Tech Stack
