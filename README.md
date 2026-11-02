@@ -59,11 +59,7 @@ I am a full time CST student with a focus in Technical Writing, Project Manageme
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=skycreated&bg_color=00000000&color=ec4bc1&line=ec4bc1&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### ˙⋆✮ Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
+### ˙⋆✮ <3 Thanks for Reading <3
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/skycreated">skycreated</a></i></p>
+<p align="center"><i>From <a href="https://github.com/skycreated">skycreated</a></i></p>
